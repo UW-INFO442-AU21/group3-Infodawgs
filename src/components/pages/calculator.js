@@ -4,7 +4,7 @@ import "./calculator.css";
 function calculator() {
   return (
     <div>
-      <h1>Calculator code goes here </h1>
+      <h1>Here you can calculate the emissions of your foods and drinks!</h1>
     </div>
   );
 }
