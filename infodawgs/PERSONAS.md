@@ -2,6 +2,7 @@
 
 
 **👩‍🎓 The College Student**
+
 Age: 21
 
 Story: College students living on their own for the first time. Grocery budget isn’t too big, but wants to eat healthy, wants meals that support their fitness and health goals, and doesn’t want to break the bank doing it. Cares about making choices that are good for the environment - buses, bikes, composts, etc, but isn’t sure how to make more sustainable choices with their food and meal choices. 
@@ -18,6 +19,7 @@ Goals
 
 
 **💼The Young Professional**
+
 Age: 24
 
 Story: Young professional, just starting in their career and earning a paycheck. Has more capacity for food purchases but is very dedicated to environmental causes, and wants to learn more and do what they can to really make a lifestyle change. Wants to quantify and keep track of their own actions so they have an information-based decision on how best to reduce their own environmental impact. 
@@ -36,6 +38,7 @@ Goals:
 
 
 **👨‍👧‍👦The Parent**
+
 Age: 45
 
 Story: Parent of 3 kids trying to reduce their food carbon emissions when feeding a big family. Wants to make better choices for the environment when grocery shopping as well as teach their kids about how to shop for items that are good for the environment.
