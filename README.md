@@ -2,7 +2,7 @@
 
 **SDG 2 Zero Hunger**
 
-### Team Members: Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
+### 🎳 Team Members: Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
 #### Infodawgs
 
 ### ✨ Our Mission
@@ -10,3 +10,4 @@ Food production contributes to roughly 1/3 of the carbon emissions. For that rea
 
 ### 🛠 Functionality
 Our application includes references to educational resources and a carbon footprint calculator, which users can use to track the carbon emissions of their own consumption, and gain other basic information about what actions they can take. 
+
