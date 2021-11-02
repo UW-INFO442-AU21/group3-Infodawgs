@@ -2,7 +2,7 @@
 **By Group3, InfoDawgs**
 
 ### 🎳 Team Members
-Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
+Anika Mishra, Benjamin Chan, Maya Nair, Steven Tang, Wendell Li
 
 ### 🌐 Sustainable Development Goal
 
