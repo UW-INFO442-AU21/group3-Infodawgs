@@ -5,7 +5,6 @@
 Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
 
 ### 🌐 Sustainable Development Goal
-Goal 2, Zero Hunger
 
 
 ### ✨ Our Mission
