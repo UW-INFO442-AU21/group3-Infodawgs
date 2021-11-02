@@ -1,9 +1,10 @@
-# group3-Infodawgs
-
-**SDG 2 Zero Hunger**
+# Sustainable Food Choices
+**By Group3, InfoDawgs**
 
 ### 🎳 Team Members: Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
-#### Infodawgs
+
+### 🌐 Sustainable Development Goal 2, Zero Hunger
+
 
 ### ✨ Our Mission
 Food production contributes to roughly 1/3 of the carbon emissions. For that reason, our group decided to create an application which allows users to learn about their own food carbon footprint, and take actions to reduce it through more sustainable food choices. 
