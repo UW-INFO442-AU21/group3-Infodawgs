@@ -1,9 +1,11 @@
 # Sustainable Food Choices
 **By Group3, InfoDawgs**
 
-### 🎳 Team Members: Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
+### 🎳 Team Members
+Anika Mishra, Benjamin Chan, Maya Krohn, Steven Tang, Wendell Li
 
-### 🌐 Sustainable Development Goal 2, Zero Hunger
+### 🌐 Sustainable Development Goal
+Goal 2, Zero Hunger
 
 
 ### ✨ Our Mission
