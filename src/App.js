@@ -7,6 +7,7 @@ import home from "./components/pages/home";
 import calculator from "./components/pages/calculator";
 import resources from "./components/pages/resources";
 import aboutUs from "./components/pages/aboutUs";
+import Footer from "./components/Footer.js";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/resources" exact component={resources} />
         <Route path="/aboutUs" exact component={aboutUs} />
       </Switch>
+      <Footer />
     </Router>
   );
 }
