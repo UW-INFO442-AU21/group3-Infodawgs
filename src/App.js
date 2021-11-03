@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
 import "font-awesome/css/font-awesome.min.css";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar.jsx";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import home from "./components/pages/home";
 import calculator from "./components/pages/calculator";
 import resources from "./components/pages/resources";
 import aboutUs from "./components/pages/aboutUs";
-import Footer from "./components/Footer.js";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
