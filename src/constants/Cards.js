@@ -1,0 +1,51 @@
+export const cardList = [
+  {
+    category: "category1",
+    name: "name1",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category1",
+    name: "name2",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category1",
+    name: "name3",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category2",
+    name: "name1",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category3",
+    name: "name1",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category4",
+    name: "name1",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+  {
+    category: "category5",
+    name: "name1",
+    imageSrc: "",
+    imageAlt: "",
+    number: 0,
+  },
+];

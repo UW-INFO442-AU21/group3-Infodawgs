@@ -16,3 +16,37 @@
 .Footer {
   bottom: 0;
 }
+
+.container {
+  padding: 5.5em;
+}
+
+.list-container {
+  padding: 0.5em;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-container {
+  margin: auto;
+  width: 100%;
+  flex-wrap: wrap;
+  height: 100%;
+  text-align: center;
+  padding: 0 0px;
+}
+
+.flex-item-1 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.flex-item-2 {
+  margin-bottom: 10px;
+}
+
+.flex-item-3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
