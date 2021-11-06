@@ -1,27 +1,47 @@
-import React from "react";
+import React, { Component } from "react";
 import "./App.css";
-import "font-awesome/css/font-awesome.min.css";
-import Navbar from "./components/Navbar.jsx";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import home from "./pages/home";
-import calculator from "./pages/calculator";
-import resources from "./pages/resources";
-import aboutUs from "./pages/aboutUs";
-import Footer from "./components/Footer";
+import Header from "./Header.js";
+import Introduction from "./Introduction.js";
+import ActivitiesSection from "./FoodSection.js";
+import AboutUs from "./AboutUs.js";
+import Footer from "./Footer.js";
 
-function App() {
-  return (
-    <Router>
-      <Navbar />
-      <Switch>
-        <Route path="/home" exact component={home} />
-        <Route path="/calculator" exact component={calculator} />
-        <Route path="/resources" exact component={resources} />
-        <Route path="/aboutUs" exact component={aboutUs} />
-      </Switch>
-      <Footer />
-    </Router>
-  );
+class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      page: 0,
+    };
+  }
+
+  currentPage = (index) => {
+    this.setState({
+      page: index,
+    });
+  };
+
+  render() {
+    let displaySection;
+    if (this.state.page === 0) {
+      displaySection = (
+        <div>
+          <Introduction />
+          <ActivitiesSection />
+        </div>
+      );
+    } else {
+      displaySection = <AboutUs />;
+    }
+
+    return (
+      <div>
+        <Header onAboutClicked={this.currentPage} />
+        {displaySection}
+        <Footer />
+      </div>
+    );
+  }
 }
 
 export default App;
