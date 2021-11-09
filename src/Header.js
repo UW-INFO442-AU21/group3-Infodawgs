@@ -6,6 +6,7 @@ class Header extends Component {
     this.state = {
       calActive: true,
       aboutActive: false,
+      resActive: false,
     };
   }
 
@@ -14,18 +15,28 @@ class Header extends Component {
       this.setState({
         calActive: true,
         aboutActive: false,
+        resActive: false,
+      });
+    } else if (event === 1) {
+      this.setState({
+        calActive: false,
+        aboutActive: true,
+        resActive: false,
       });
     } else {
       this.setState({
         calActive: false,
-        aboutActive: true,
+        aboutActive: false,
+        resActive: true,
       });
     }
+
+
   };
 
   render() {
     const { onAboutClicked } = this.props;
-    const { calActive, aboutActive } = this.state;
+    const { calActive, aboutActive, resActive } = this.state;
     return (
       <div
         id="header"
@@ -55,6 +66,15 @@ class Header extends Component {
               style={{ backgroundColor: aboutActive ? "#3b945e" : "" }}
             >
               About Us
+            </li>
+            <li
+              onClick={() => {
+                onAboutClicked(2);
+                this.handleClick(2);
+              }}
+              style={{ backgroundColor: resActive ? "#3b945e" : "" }}
+            >
+              Resources
             </li>
           </ul>
         </div>

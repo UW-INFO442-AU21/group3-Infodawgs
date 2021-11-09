@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import { cardListLeft, cardListRight } from "./Constants/cards";
-import { categories } from "./Constants/categories";
+import { cardListLeft, cardListRight } from "./Constants/Cards";
+import { categories } from "./Constants/Categories";
 import CardItem from "./Components/CardItem.js";
 
 const categoriesLowerCased = categories.map((c) => c.toLowerCase());

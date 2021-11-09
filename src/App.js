@@ -5,6 +5,7 @@ import Introduction from "./Introduction.js";
 import ActivitiesSection from "./FoodSection.js";
 import AboutUs from "./AboutUs.js";
 import Footer from "./Footer.js";
+import Resources from "./ResourcePage.js"
 
 class App extends Component {
   constructor(props) {
@@ -30,8 +31,10 @@ class App extends Component {
           <ActivitiesSection />
         </div>
       );
-    } else {
+    } else if (this.state.page === 1) {
       displaySection = <AboutUs />;
+    } else {
+      displaySection = <Resources />;
     }
 
     return (
