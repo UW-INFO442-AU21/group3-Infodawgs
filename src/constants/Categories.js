@@ -1,7 +1,7 @@
 export const categories = [
-  "Category1",
-  "Category2",
-  "Category3",
-  "Category4",
-  "Category5",
+  "Fruit",
+  "Grain",
+  "Proteins",
+  "Vegetables",
+  "Seafood",
 ];
