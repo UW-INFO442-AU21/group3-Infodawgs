@@ -1522,3 +1522,15 @@
           padding: 0;
       }
   }
+
+  .about-secion {
+    flex: 0 1 calc(16.7%);
+    margin:auto;
+  }
+
+  .about-secion-container {
+    text-align:center;
+    display: flex;
+    flex-flow: row wrap;
+    position: relative;
+  }

@@ -6,8 +6,8 @@ class AboutUs extends Component {
       <div id="wrapper">
         <div className="flex-container pg1-about">
           <div className="row info">
-            <div className="col-20 col-md-20 col-xl-auto d-flex">
-              <section className="flex-item-4">
+            <div className="col-20 col-md-20 col-xl-auto d-flex about-secion-container">
+              <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
                   src={`${process.env.PUBLIC_URL}/wendell.jpg`}
@@ -60,7 +60,7 @@ class AboutUs extends Component {
                   <li>Class of 2022</li>
                 </ul>
               </section>
-              <section className="flex-item-4">
+              <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
                   src={`${process.env.PUBLIC_URL}/wendell.jpg`}
@@ -113,7 +113,7 @@ class AboutUs extends Component {
                   <li>Class of 2022</li>
                 </ul>
               </section>
-              <section className="flex-item-4">
+              <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
                   src={`${process.env.PUBLIC_URL}/wendell.jpg`}
@@ -166,7 +166,7 @@ class AboutUs extends Component {
                   <li>Class of 2022</li>
                 </ul>
               </section>
-              <section className="flex-item-4">
+              <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
                   src={`${process.env.PUBLIC_URL}/wendell.jpg`}
@@ -219,7 +219,7 @@ class AboutUs extends Component {
                   <li>Class of 2022</li>
                 </ul>
               </section>
-              <section className="flex-item-4">
+              <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
                   src={`${process.env.PUBLIC_URL}/wendell.jpg`}
