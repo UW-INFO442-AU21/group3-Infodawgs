@@ -1,1 +1,7 @@
-export const quantity = ["1", "2", "3", "4", "5"];
+export const quantity = [
+  "1 serving",
+  "2 servings",
+  "3 servings",
+  "4 servings",
+  "5 servings",
+];

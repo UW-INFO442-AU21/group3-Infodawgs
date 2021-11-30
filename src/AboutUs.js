@@ -26,48 +26,8 @@ class AboutUs extends Component {
                   alt="people"
                 />
                 <h2 className="name">Wendell Li</h2>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/wendellli99/"
-                  role="button"
-                  aria-label="LinkedIn"
-                >
-                  <img
-                    alt="LinkedIn"
-                    src={`${process.env.PUBLIC_URL}/icons/linkedin.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.facebook.com/profile.php?id=100005237762480/"
-                  role="button"
-                  aria-label="Facebook"
-                >
-                  <img
-                    alt="Facebook"
-                    src={`${process.env.PUBLIC_URL}/icons/facebook.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="mailto:wendelli@uw.edu"
-                  role="button"
-                  aria-label="E-mail"
-                >
-                  <img
-                    alt="E-mail"
-                    src={`${process.env.PUBLIC_URL}/icons/email.jpg`}
-                    className="contact"
-                  />
-                </a>
                 <ul className="list">
-                  <li>UI/UX Designer</li>
-                  <li>iOS App Game Developer</li>
+                  <li>Full-stack Developer</li>
                   <li>Student at the University of Washington</li>
                   <li>Class of 2022</li>
                 </ul>
@@ -75,52 +35,12 @@ class AboutUs extends Component {
               <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
-                  src={`${process.env.PUBLIC_URL}/wendell.jpg`}
+                  src={`${process.env.PUBLIC_URL}/anika.jpg`}
                   alt="people"
                 />
-                <h2 className="name">Wendell Li</h2>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/wendellli99/"
-                  role="button"
-                  aria-label="LinkedIn"
-                >
-                  <img
-                    alt="LinkedIn"
-                    src={`${process.env.PUBLIC_URL}/icons/linkedin.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.facebook.com/profile.php?id=100005237762480/"
-                  role="button"
-                  aria-label="Facebook"
-                >
-                  <img
-                    alt="Facebook"
-                    src={`${process.env.PUBLIC_URL}/icons/facebook.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="mailto:wendelli@uw.edu"
-                  role="button"
-                  aria-label="E-mail"
-                >
-                  <img
-                    alt="E-mail"
-                    src={`${process.env.PUBLIC_URL}/icons/email.jpg`}
-                    className="contact"
-                  />
-                </a>
+                <h2 className="name">Anika Mishra</h2>
                 <ul className="list">
                   <li>UI/UX Designer</li>
-                  <li>iOS App Game Developer</li>
                   <li>Student at the University of Washington</li>
                   <li>Class of 2022</li>
                 </ul>
@@ -128,52 +48,12 @@ class AboutUs extends Component {
               <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
-                  src={`${process.env.PUBLIC_URL}/wendell.jpg`}
+                  src={`${process.env.PUBLIC_URL}/hongyi.jpg`}
                   alt="people"
                 />
-                <h2 className="name">Wendell Li</h2>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/wendellli99/"
-                  role="button"
-                  aria-label="LinkedIn"
-                >
-                  <img
-                    alt="LinkedIn"
-                    src={`${process.env.PUBLIC_URL}/icons/linkedin.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.facebook.com/profile.php?id=100005237762480/"
-                  role="button"
-                  aria-label="Facebook"
-                >
-                  <img
-                    alt="Facebook"
-                    src={`${process.env.PUBLIC_URL}/icons/facebook.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="mailto:wendelli@uw.edu"
-                  role="button"
-                  aria-label="E-mail"
-                >
-                  <img
-                    alt="E-mail"
-                    src={`${process.env.PUBLIC_URL}/icons/email.jpg`}
-                    className="contact"
-                  />
-                </a>
+                <h2 className="name">Hongyi Tang</h2>
                 <ul className="list">
-                  <li>UI/UX Designer</li>
-                  <li>iOS App Game Developer</li>
+                  <li>Front-end Engineer</li>
                   <li>Student at the University of Washington</li>
                   <li>Class of 2022</li>
                 </ul>
@@ -181,52 +61,12 @@ class AboutUs extends Component {
               <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
-                  src={`${process.env.PUBLIC_URL}/wendell.jpg`}
+                  src={`${process.env.PUBLIC_URL}/ben.jpg`}
                   alt="people"
                 />
-                <h2 className="name">Wendell Li</h2>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/wendellli99/"
-                  role="button"
-                  aria-label="LinkedIn"
-                >
-                  <img
-                    alt="LinkedIn"
-                    src={`${process.env.PUBLIC_URL}/icons/linkedin.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.facebook.com/profile.php?id=100005237762480/"
-                  role="button"
-                  aria-label="Facebook"
-                >
-                  <img
-                    alt="Facebook"
-                    src={`${process.env.PUBLIC_URL}/icons/facebook.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="mailto:wendelli@uw.edu"
-                  role="button"
-                  aria-label="E-mail"
-                >
-                  <img
-                    alt="E-mail"
-                    src={`${process.env.PUBLIC_URL}/icons/email.jpg`}
-                    className="contact"
-                  />
-                </a>
+                <h2 className="name">Benjamin Chan </h2>
                 <ul className="list">
-                  <li>UI/UX Designer</li>
-                  <li>iOS App Game Developer</li>
+                  <li>Data Engineer</li>
                   <li>Student at the University of Washington</li>
                   <li>Class of 2022</li>
                 </ul>
@@ -234,52 +74,12 @@ class AboutUs extends Component {
               <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
-                  src={`${process.env.PUBLIC_URL}/wendell.jpg`}
+                  src={`${process.env.PUBLIC_URL}/maya.jpg`}
                   alt="people"
                 />
-                <h2 className="name">Wendell Li</h2>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/wendellli99/"
-                  role="button"
-                  aria-label="LinkedIn"
-                >
-                  <img
-                    alt="LinkedIn"
-                    src={`${process.env.PUBLIC_URL}/icons/linkedin.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://www.facebook.com/profile.php?id=100005237762480/"
-                  role="button"
-                  aria-label="Facebook"
-                >
-                  <img
-                    alt="Facebook"
-                    src={`${process.env.PUBLIC_URL}/icons/facebook.jpg`}
-                    className="contact"
-                  />
-                </a>
-                <a
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="mailto:wendelli@uw.edu"
-                  role="button"
-                  aria-label="E-mail"
-                >
-                  <img
-                    alt="E-mail"
-                    src={`${process.env.PUBLIC_URL}/icons/email.jpg`}
-                    className="contact"
-                  />
-                </a>
+                <h2 className="name">Maya Nair</h2>
                 <ul className="list">
-                  <li>UI/UX Designer</li>
-                  <li>iOS App Game Developer</li>
+                  <li>Project Manager</li>
                   <li>Student at the University of Washington</li>
                   <li>Class of 2022</li>
                 </ul>
