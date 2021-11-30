@@ -6,13 +6,11 @@ const introduction = () => {
       <div class="main-resource">
         <h2>Our Mission</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          Infodawg's mission is to use data to make a difference in the challenges we face in the
+          world today. Our focus in creating the food carbon emissions calculator is to give users 
+          a readily accessible and quick way to determine the carbon impact of their eating habits.
+          As food accounts for a third of the world's carbon emissions, choosing more sustainable
+          options in our diet is a great first step to making a difference on our carbon footprint. 
         </p>
       </div>
     </div>

@@ -5,15 +5,11 @@ const Resources = () => {
     <div>
       <div>
         <div class="main-resource">
-          <h2>Creative Resources</h2>
+          <h2>Additional Resources</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            If you are interested in more about how food choices and sustainability intertwine,
+            there are plenty of resources available to explore further how your choice impacts the
+            planet. Feel free to read more about the topics below to learn more!
           </p>
         </div>
         <iframe
