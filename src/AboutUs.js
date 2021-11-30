@@ -4,7 +4,7 @@ class AboutUs extends Component {
   render() {
     return (
       <div id="wrapper">
-        <div class="main-resource">
+        <div class="flex2-item-1 main-resource">
           <h2>Who are we?</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

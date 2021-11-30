@@ -4,12 +4,13 @@ const Resources = () => {
   return (
     <div>
       <div>
-        <div class="main-resource">
+        <div class="flex2-item-1 main-resource">
           <h2>Additional Resources</h2>
           <p>
-            If you are interested in more about how food choices and sustainability intertwine,
-            there are plenty of resources available to explore further how your choice impacts the
-            planet. Feel free to read more about the topics below to learn more!
+            If you are interested in more about how food choices and
+            sustainability intertwine, there are plenty of resources available
+            to explore further how your choice impacts the planet. Feel free to
+            read more about the topics below to learn more!
           </p>
         </div>
         <iframe
