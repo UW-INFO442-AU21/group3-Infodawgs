@@ -61,7 +61,10 @@ class FoodCenter extends Component {
       >
         <section className="flex2-item-1">
           <h2>Food Picker</h2>
-          <p>Click the food cards to add them to "My Food".</p>
+          <p>Click the food cards to add them to "My Food", then select the number of portions of 
+            that food item you have. Once you are done and satisfied, hit the calculate button
+            to get your result. 
+          </p>
           <div
             className="btn-group btn-group-toggle"
             data-toggle="buttons"
