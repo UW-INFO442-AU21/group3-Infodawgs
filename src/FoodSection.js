@@ -62,18 +62,19 @@ class FoodSection extends Component {
               carbonLevel = carbonLevel * 2;
               levelIndex += carbonLevel;
               console.log(carbonLevel);
+              console.log("Level Index:", levelIndex)
             }
           }
         });
         let levelNum = Math.floor(levelIndex / cardsInMyFood.length);
-        console.log(levelNum);
-        if (levelNum > 30) {
+        console.log("Level Num:", levelNum);
+        if (levelIndex > 30) {
           levelNum = 4;
-        } else if (levelNum > 21) {
+        } else if (levelIndex > 21) {
           levelNum = 3;
-        } else if (levelNum > 14) {
+        } else if (levelIndex > 14) {
           levelNum = 2;
-        } else if (levelNum > 7) {
+        } else if (levelIndex > 7) {
           levelNum = 1;
         } else {
           levelNum = 0;
