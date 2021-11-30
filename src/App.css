@@ -1375,7 +1375,7 @@ img-resource {
   vertical-align: middle;
 }
 
-/* .btn-resource  {
+.btn-resource {
   color: #ffffff;
   padding: 0.8rem;
   font-size: 14px;
@@ -1391,7 +1391,7 @@ img-resource {
 
 .btn-resource:hover {
   background-color: rgba(255, 255, 255, 0.12);
-} */
+}
 
 .cards-resource {
   display: flex;
