@@ -1429,6 +1429,7 @@ img-resource {
   flex-direction: column;
   overflow: hidden;
   margin: 0 auto;
+  height: auto;
 }
 
 .card_content-resource {

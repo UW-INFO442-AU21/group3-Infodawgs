@@ -16,12 +16,13 @@ const Resources = () => {
         <iframe
           className="youtube"
           src="https://www.youtube.com/embed/PyiVf26C5pc"
+          title="Food Science"
         ></iframe>
         <ul class="cards-resource ">
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/food.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/food.jpg`} alt="food" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Food Sciences</h2>
@@ -39,7 +40,7 @@ const Resources = () => {
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/img2.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/img2.jpg`} alt="img2" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Interview with Expert</h2>
@@ -57,7 +58,7 @@ const Resources = () => {
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/img3.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/img3.jpg`} alt="img3" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Food Guides</h2>
@@ -75,7 +76,7 @@ const Resources = () => {
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/img4.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/img4.jpg`} alt="img4" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Informational Stories</h2>
@@ -93,7 +94,7 @@ const Resources = () => {
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/img5.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/img5.jpg`} alt="img5" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Fact Sheets</h2>
@@ -111,7 +112,7 @@ const Resources = () => {
           <li class="cards_item-resource ">
             <div class="card-resource ">
               <div class="card_image-resource ">
-                <img src={`${process.env.PUBLIC_URL}/img6.jpg`} />
+                <img src={`${process.env.PUBLIC_URL}/img6.jpg`} alt="img6" />
               </div>
               <div class="card_content-resource ">
                 <h2 class="card_title-resource ">Sustainability Stories</h2>
