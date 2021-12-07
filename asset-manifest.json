@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/group3-Infodawgs/static/css/main.9fed754f.chunk.css",
-    "main.js": "/group3-Infodawgs/static/js/main.4dbce7ef.chunk.js",
-    "main.js.map": "/group3-Infodawgs/static/js/main.4dbce7ef.chunk.js.map",
+    "main.js": "/group3-Infodawgs/static/js/main.9baba826.chunk.js",
+    "main.js.map": "/group3-Infodawgs/static/js/main.9baba826.chunk.js.map",
     "runtime-main.js": "/group3-Infodawgs/static/js/runtime-main.f281151f.js",
     "runtime-main.js.map": "/group3-Infodawgs/static/js/runtime-main.f281151f.js.map",
     "static/js/2.8261361a.chunk.js": "/group3-Infodawgs/static/js/2.8261361a.chunk.js",
     "static/js/2.8261361a.chunk.js.map": "/group3-Infodawgs/static/js/2.8261361a.chunk.js.map",
     "index.html": "/group3-Infodawgs/index.html",
-    "precache-manifest.338e447ef027a40004eb664db5ab2034.js": "/group3-Infodawgs/precache-manifest.338e447ef027a40004eb664db5ab2034.js",
+    "precache-manifest.cdd527e9dcf8d83bedcc8ab8a2a24fcc.js": "/group3-Infodawgs/precache-manifest.cdd527e9dcf8d83bedcc8ab8a2a24fcc.js",
     "service-worker.js": "/group3-Infodawgs/service-worker.js",
     "static/css/main.9fed754f.chunk.css.map": "/group3-Infodawgs/static/css/main.9fed754f.chunk.css.map",
     "static/js/2.8261361a.chunk.js.LICENSE.txt": "/group3-Infodawgs/static/js/2.8261361a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f281151f.js",
     "static/js/2.8261361a.chunk.js",
     "static/css/main.9fed754f.chunk.css",
-    "static/js/main.4dbce7ef.chunk.js"
+    "static/js/main.9baba826.chunk.js"
   ]
 }
