@@ -60,7 +60,7 @@ class AboutUs extends Component {
               <section className="flex-item-6 about-secion">
                 <img
                   className="rounded-circle profile"
-                  src={`${process.env.PUBLIC_URL}/ben.jpg`}
+                  src={`${process.env.PUBLIC_URL}/ben1.jpg`}
                   alt="people"
                 />
                 <h2 className="name">Benjamin Chan </h2>
